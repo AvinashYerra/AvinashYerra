@@ -3,10 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashyerra&label=Profile%20views&color=0e75b6&style=flat" alt="avinashyerra" /> </p>
 
+-🎓 2024 graduate from NIT Raipur | 💼 BTSA at ZS Associates  
 - 🌱 I’m currently learning **Pyspark**
-
-- 💬 Ask me about **SQL, Python , Airflow**
-
+- 💻 Passionate about Data Engineering, Analytics, and Backend Development  
+I'm a data enthusiast with hands-on experience in:
+- 🔄 Building data pipelines using **Python**, **SQL**, and **Apache Airflow**
+- 🧊 Working with cloud data warehouses like **Snowflake** and storage solutions like **AWS S3**
+- 🧪 Applying data quality checks and transformations using **Pandas** and **Snowpark**
+- 📊 Creating insightful dashboards and data products for decision-making
+I love designing scalable systems, writing clean code, and solving real-world problems with data.
 - 📫 How to reach me **avinashyerra123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
