@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning **Pyspark**
 - 💻 Passionate about Data Engineering, Analytics, and Backend Development  
 - I'm a data enthusiast with hands-on experience in:
-- 🔄 Building data pipelines using **Python**, **SQL**, and **Apache Airflow**
-- 🧊 Working with cloud data warehouses like **Snowflake** and storage solutions like **AWS S3**
-- 🧪 Applying data quality checks and transformations using **Pandas** and **Snowpark**
-- 📊 Creating insightful dashboards and data products for decision-making
-I love designing scalable systems, writing clean code, and solving real-world problems with data.
+    - 🔄 Building data pipelines using **Python**, **SQL**, and **Apache Airflow**
+    - 🧊 Working with cloud data warehouses like **Snowflake** and storage solutions like **AWS S3**
+    - 🧪 Applying data quality checks and transformations using **Pandas** and **Snowpark**
+    - 📊 Creating insightful dashboards and data products for decision-making
+    I love designing scalable systems, writing clean code, and solving real-world problems with data.
 - 📫 How to reach me **avinashyerra123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
