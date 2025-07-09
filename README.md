@@ -5,11 +5,9 @@
 
 - 🎓 2024 graduate from NIT Raipur | 💼 BTSA at ZS Associates  
 - 🌱 I’m currently learning **Pyspark**
-- 💻 Passionate about Data Engineering, Analytics, and Backend Development  
+- 💻 Passionate about Data Engineering, Analytics, and Web Development  
 - I'm a data enthusiast with hands-on experience in:
-    - 🔄 Building data pipelines using **Python**, **SQL**, and **Apache Airflow**
-    - 🧊 Working with cloud data warehouses like **Snowflake** and storage solutions like **AWS S3**
-    - 🧪 Applying data quality checks and transformations using **Pandas** and **Snowpark**
+    - 🔄 Building data pipelines using **Python**, **SQL**, **Spark** and **Apache Airflow**
     - 📊 Creating insightful dashboards and data products for decision-making
     I love designing scalable systems, writing clean code, and solving real-world problems with data.
 - 📫 How to reach me **avinashyerra123@gmail.com**
