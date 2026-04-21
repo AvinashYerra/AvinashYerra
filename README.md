@@ -18,11 +18,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3>Skills</h3>
 <ul>
   <li>C, C++, JavaScript, Python</li>
-  <li>Node.js, Express</li>
-  <li>Hadoop, Hive, Kafka, Cassandra</li>
+  <li>Hadoop, Hive, Kafka, Cassandra, Airflow</li>
   <li>MySQL, PostgreSQL, MongoDB, MariaDB, MSSQL, Oracle, SQLite, Redis</li>
-  <li>AWS, Git, Postman, Heroku, Pandas</li>
+  <li>AWS, Git, Postman, Heroku, Pandas, Numpy, Polars, Spark</li>
 </ul>
