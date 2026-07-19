@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashyerra&label=Profile%20views&color=0e75b6&style=flat" alt="avinashyerra" /> </p>
 
-- 2024 graduate from NIT Raipur | BTSA at ZS Associates  
+- 2024 graduate from NIT Raipur | BTSAC at ZS Associates  
 - I’m currently learning **Pyspark**
 - Passionate about Data Engineering, Analytics, and Web Development  
 - I'm a data enthusiast with hands-on experience in:
